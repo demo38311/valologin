@@ -1,0 +1,12 @@
+{
+  "name": "website-backend",
+  "version": "1.0.0",
+  "description": "A simple backend for the website to store credentials.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
